@@ -1,4 +1,4 @@
-![logo](https://github.com/KONETISUPRIYA/KONETISUPRIYA/blob/main/Banner.jpg.png)
+![logo](https://github.com/KONETISUPRIYA/KONETISUPRIYA/blob/main/Banner.jpg)
 
 <h1 align="center">Hi 👋, I'm KONETI SUPRIYA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>

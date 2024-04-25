@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=konetisupriya&label=Profile%20views&color=0e75b6&style=flat" alt="konetisupriya" /> </p>
 
-<p align="left"> <a href="https://twitter.com/k supriya" target="blank"><img src="https://img.shields.io/twitter/follow/k supriya?logo=twitter&style=for-the-badge" alt="k supriya" /></a> </p>
+<p align="left"> <a href="https://twitter.com/K SUPRIYA" target="blank"><img src="https://img.shields.io/twitter/follow/K SUPRIYA?logo=twitter&style=for-the-badge" alt="k supriya" /></a> </p>
 
 - 🔭 I’m currently working on **Major Project**
 
@@ -21,9 +21,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/k supriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="k supriya" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/KONETI SUPRIYA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="KONETI SUPRIYA" height="30" width="40" /></a>
-<a href="https://instagram.com/spunk_warrior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="spunk_warrior" height="30" width="40" /></a>
+<a href="https://x.com/KSUPRIYA302127?t=0bckP_z1xSEbv2yCa_ATig&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="k supriya" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/koneti-supriya-160526255/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="KONETI SUPRIYA" height="30" width="40" /></a>
+<a href="https://www.instagram.com/invites/contact/?i=2ruy0h4g9hxf&utm_content=qytfls3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="spunk_warrior" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

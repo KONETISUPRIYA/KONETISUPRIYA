@@ -1,11 +1,11 @@
 ![logo](https://github.com/KONETISUPRIYA/KONETISUPRIYA/blob/main/Banner.jpg)
 <h1 align="center">Hi 👋, I'm KONETI SUPRIYA</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A enthusiastic frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/db/43/39/db43397dfb1870ec9ab46d0de9f928a1.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=konetisupriya&label=Profile%20views&color=0e75b6&style=flat" alt="konetisupriya" /> </p>
 
-<p align="left"> <a href="https://twitter.com/K SUPRIYA" target="blank"><img src="https://img.shields.io/twitter/follow/K SUPRIYA?logo=twitter&style=for-the-badge" alt="k supriya" /></a> </p>
+<p align="left"> <a href="https://x.com/KSUPRIYA302127?t=0bckP_z1xSEbv2yCa_ATig&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/K SUPRIYA?logo=twitter&style=for-the-badge" alt="K SUPRIYA" /></a> </p>
 
 - 🔭 I’m currently working on **Major Project**
 

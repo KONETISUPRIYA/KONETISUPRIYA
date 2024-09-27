@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **Major Project**
 
-- 🌱 I’m currently learning **Core Java, Advance Java**
+- 🌱 I’m currently learning **JEE, Advance Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KONETISUPRIYA](https://github.com/KONETISUPRIYA)
 
-- 💬 Ask me about **HTML,Core Java,CSS**
+- 💬 Ask me about **HTML,JEE,CSS**
 
 - 📫 How to reach me **supriyakoneti21@gmail.com**
 

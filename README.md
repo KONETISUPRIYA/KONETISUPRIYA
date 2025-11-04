@@ -7,14 +7,16 @@
 
 <p align="left"> <a href="https://x.com/KSUPRIYA302127?t=0bckP_z1xSEbv2yCa_ATig&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/K SUPRIYA?logo=twitter&style=for-the-badge" alt="K SUPRIYA" /></a> </p>
 
-- 🔭 I’m currently working on **Major Project**
+- 🔭 I’m currently working on **Advance Java,Hibernate,Spring**
 
-- 🌱 I’m currently learning **JEE, Advance Java**
+- 🌱 I’m currently learning **Spring Boot, Advance Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KONETISUPRIYA](https://github.com/KONETISUPRIYA)
 
 - 💬 Ask me about **HTML,JEE,CSS**
 
+- 💬Ask me about **Java(JSE), JEE, MySQL and  Frontendtechnogy**
+  
 - 📫 How to reach me **supriyakoneti21@gmail.com**
 
 - ⚡ Fun fact **I am Funny**

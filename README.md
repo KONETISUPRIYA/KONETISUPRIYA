@@ -27,6 +27,8 @@
 
 • Shipment Analysis Dashboard (Power BI)
 
+
+
 -💼 Interested in Data Analyst, MIS Executive, Reporting Analyst and Operations Analyst roles
   
 - 📫 How to reach me **supriyakoneti21@gmail.com**

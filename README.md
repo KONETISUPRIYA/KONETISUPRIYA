@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Advanced SQL, Power BI and Business Analytics**
 
-- 👨‍💻 All of my projects are available at [https://github.com/KONETISUPRIYA](https://github.com/KONETISUPRIYA)
+- 👨‍💻 Explore all my projects on GitHub: [KONETISUPRIYA](https://github.com/KONETISUPRIYA)
 
 - 💬 Ask me about **SQL, Excel, Power BI, Data Visualization and Reporting**
 

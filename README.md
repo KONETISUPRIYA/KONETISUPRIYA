@@ -53,8 +53,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=konetisupriya&show_icons=true&locale=en&layout=compact" alt="konetisupriya"/></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KONETISUPRIYA&layout=compact&theme=tokyonight" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=konetisupriya&show_icons=true&locale=en" alt="konetisupriya"/></p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=KONETISUPRIYA&show_icons=true&theme=tokyonight" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=konetisupriya&" alt="konetisupriya" /></p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KONETISUPRIYA&theme=tokyonight" />
+</p>

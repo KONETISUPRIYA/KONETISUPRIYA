@@ -1,4 +1,4 @@
-![logo](https://github.com/KONETISUPRIYA/KONETISUPRIYA/blob/main/Banner.png)
+![logo](https://raw.githubusercontent.com/KONETISUPRIYA/KONETISUPRIYA/main/Banner.png)
 <h1 align="center">Hi 👋, I'm KONETI SUPRIYA</h1>
 <h3 align="center">An enthusiastic Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **SQL, Excel, Power BI, Data Visualization and Reporting**
 
-- ### 📊 Projects
+### 📊 Projects
   
 •  📊  [Bank Customer Transaction Analysis (SQL)](https://github.com/KONETISUPRIYA/Data_Analyst/tree/main/SQL/Bank_Customer_Transaction_Analysis)
 
@@ -30,7 +30,7 @@
   
 - 📫 How to reach me **supriyakoneti21@gmail.com**
 
-- ⚡ Passionate about turning data into actionable insights**
+- ⚡ Passionate about turning data into actionable insights
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -54,11 +54,11 @@
 </p>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KONETISUPRIYA&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KONETISUPRIYA&show_icons=true&theme=default&cache_seconds=1800" />
 </p>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=KONETISUPRIYA&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KONETISUPRIYA&layout=compact&theme=default&cache_seconds=1800" />
 </p>
 
 <p>

@@ -1,6 +1,6 @@
 ![logo](https://github.com/KONETISUPRIYA/KONETISUPRIYA/blob/main/Banner.jpg)
 <h1 align="center">Hi 👋, I'm KONETI SUPRIYA</h1>
-<h3 align="center">An enthusiastic Data Analayst from India</h3>
+<h3 align="center">An enthusiastic Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=konetisupriya&label=Profile%20views&color=0e75b6&style=flat" alt="konetisupriya" /> </p>
@@ -30,7 +30,7 @@
   
 - 📫 How to reach me **supriyakoneti21@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **⚡ Passionate about turning data into actionable insights**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,7 +1,7 @@
 ![logo](https://github.com/KONETISUPRIYA/KONETISUPRIYA/blob/main/Banner.jpg)
 <h1 align="center">Hi 👋, I'm KONETI SUPRIYA</h1>
 <h3 align="center">A enthusiastic Data Analayst from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://github.com/KONETISUPRIYA/KONETISUPRIYA/blob/main/coding%20.gif](https://raw.githubusercontent.com/KONETISUPRIYA/KONETISUPRIYA/main/coding.gif)">
+<img align="right" alt="Coding" width="400" src="(https://raw.githubusercontent.com/KONETISUPRIYA/KONETISUPRIYA/main/coding.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=konetisupriya&label=Profile%20views&color=0e75b6&style=flat" alt="konetisupriya" /> </p>
 

@@ -1,6 +1,6 @@
 ![logo](https://github.com/KONETISUPRIYA/KONETISUPRIYA/blob/main/Banner.jpg)
 <h1 align="center">Hi 👋, I'm KONETI SUPRIYA</h1>
-<h3 align="center">A enthusiastic Data Analayst from India</h3>
+<h3 align="center">An enthusiastic Data Analayst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=konetisupriya&label=Profile%20views&color=0e75b6&style=flat" alt="konetisupriya" /> </p>
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/KONETISUPRIYA](https://github.com/KONETISUPRIYA)
 
-- 💬 Ask me about **SQL,Power BI,Excel**
+- 💬 Ask me about **SQL, Excel, Power BI, Data Visualization and Reporting**
 
 - 💬Ask me about **Java(JSE), JEE, MySQL and  Frontendtechnogy**
 

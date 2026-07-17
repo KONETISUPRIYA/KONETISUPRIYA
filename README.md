@@ -1,4 +1,4 @@
-![logo](https://github.com/KONETISUPRIYA/KONETISUPRIYA/blob/main/Banner.jpg)
+![logo](https://github.com/KONETISUPRIYA/KONETISUPRIYA/blob/main/Banner.jpg.png)
 <h1 align="center">Hi 👋, I'm KONETI SUPRIYA</h1>
 <h3 align="center">An enthusiastic Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">

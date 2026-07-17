@@ -17,13 +17,13 @@
 
 - 📊 **Projects:**
   
-• Bank Customer Transaction Analysis (SQL)
+• [Bank Customer Transaction Analysis (SQL)](https://github.com/KONETISUPRIYA/Data_Analyst/tree/main/SQL/Bank_Customer_Transaction_Analysis)
 
-• Call Center Performance Dashboard (Excel)
+• [Call Center Performance Dashboard (Excel)](https://github.com/KONETISUPRIYA/Data_Analyst/tree/main/Excel/Excel_Call_Center_Dashboard)
 
-• HR Attendance Dashboard (Excel)
+• [HR Attendance Dashboard (Excel)](https://github.com/KONETISUPRIYA/Data_Analyst/tree/main/Excel/HR%20Employee%20Attendance%20Dashboard)
 
-• Shipment Analysis Dashboard (Power BI)
+• [Shipment Analysis Dashboard (Power BI)](https://github.com/KONETISUPRIYA/Data_Analyst/tree/main/power%20BI/Goods%20Shipped%20by%20Country)
 
 
 - 💼 Interested in Data Analyst, MIS Executive, Reporting Analyst and Operations Analyst roles

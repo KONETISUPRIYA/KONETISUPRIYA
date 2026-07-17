@@ -1,21 +1,33 @@
 ![logo](https://github.com/KONETISUPRIYA/KONETISUPRIYA/blob/main/Banner.jpg)
 <h1 align="center">Hi 👋, I'm KONETI SUPRIYA</h1>
-<h3 align="center">A enthusiastic full stack web developer from India</h3>
+<h3 align="center">A enthusiastic Data Analayst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5bf0da46c5398f75e2ec953592c02afcf69379dcdb12a0c2922654a57b51fce2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313336343032392f73637265656e73686f74732f31363039333236382f6d656469612f36386538326137666234393034363134613930363664366235343063313462322e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=konetisupriya&label=Profile%20views&color=0e75b6&style=flat" alt="konetisupriya" /> </p>
 
 <p align="left"> <a href="https://x.com/KSUPRIYA302127?t=0bckP_z1xSEbv2yCa_ATig&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/K SUPRIYA?logo=twitter&style=for-the-badge" alt="K SUPRIYA" /></a> </p>
 
-- 🔭 I’m currently working on **Advance Java,Hibernate,Spring**
+- 🔭 I’m currently working on **building Data Analytics projects**
 
-- 🌱 I’m currently learning **Spring Boot, Advance Java**
+- 🌱 I’m currently learning **Advanced SQL, Power BI and Business Analytics**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KONETISUPRIYA](https://github.com/KONETISUPRIYA)
 
-- 💬 Ask me about **HTML,JEE,CSS**
+- 💬 Ask me about **SQL,Power BI,Excel**
 
 - 💬Ask me about **Java(JSE), JEE, MySQL and  Frontendtechnogy**
+
+- 📊 **Projects:**
+  
+• Bank Customer Transaction Analysis (SQL)
+
+• Call Center Performance Dashboard (Excel)
+
+• HR Attendance Dashboard (Excel)
+
+• Shipment Analysis Dashboard (Power BI)
+
+-💼 Interested in Data Analyst, MIS Executive, Reporting Analyst and Operations Analyst roles
   
 - 📫 How to reach me **supriyakoneti21@gmail.com**
 

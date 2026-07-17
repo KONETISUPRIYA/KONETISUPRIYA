@@ -15,8 +15,6 @@
 
 - 💬 Ask me about **SQL, Excel, Power BI, Data Visualization and Reporting**
 
-- 💬Ask me about **Java(JSE), JEE, MySQL and  Frontendtechnogy**
-
 - 📊 **Projects:**
   
 • Bank Customer Transaction Analysis (SQL)
